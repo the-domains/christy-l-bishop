@@ -1,0 +1,28 @@
+name: Christy L Bishop
+favicon: null
+layout_spectrum: 0.16790912696160376
+typography_spectrum: 0.45342078409157693
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.29760532919317484
+  lightness: 0.028016152326017618
+  saturation: 0.003572088899090886
+  rhythmicContrast: 0.25260000536218286
+purpose: []
